@@ -1,0 +1,2 @@
+MOBL-61 — Update mobile SDK public API contract after RFC decision
+https://one-atlas-qdiv.atlassian.net/browse/MOBL-61
