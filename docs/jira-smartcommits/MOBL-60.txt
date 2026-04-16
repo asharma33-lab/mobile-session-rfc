@@ -1,0 +1,2 @@
+MOBL-60 — Re-open RFC: mobile session token refresh vs rotating refresh tokens
+https://one-atlas-qdiv.atlassian.net/browse/MOBL-60
