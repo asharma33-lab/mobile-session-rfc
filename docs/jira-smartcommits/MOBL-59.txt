@@ -1,0 +1,3 @@
+MOBL-59 — Mobile session lifecycle — RFC revisit (2026)
+Epic indexing stub for Git ↔ Jira integration.
+https://one-atlas-qdiv.atlassian.net/browse/MOBL-59
