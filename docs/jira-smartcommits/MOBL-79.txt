@@ -1,0 +1,2 @@
+MOBL-79 — [P0] Session recovery coordinator crashes on transient network timeout during offline reconnect
+https://one-atlas-qdiv.atlassian.net/browse/MOBL-79
